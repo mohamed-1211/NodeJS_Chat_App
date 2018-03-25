@@ -50,7 +50,7 @@ function postMessage(data){
         data : data,
         success: () => { 
                 //console.log(data);
-                addNewMessage(data);
+                //addNewMessage(data);
         }
     });
 }
