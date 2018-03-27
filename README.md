@@ -8,6 +8,6 @@ In next commit, I will add MongoDB and Mongoose DB to save DATA
 
 # Installation
 
-- Go to the file cd:/PATH_To_File
+- Go to the directory cd:/PATH_To_Directory
 - Do npm install
 - Go to localhost:3000
